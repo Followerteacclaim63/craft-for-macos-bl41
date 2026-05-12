@@ -1,4 +1,4 @@
-#  
+#  Craft for macOS new Automation: tags & version history is the best Craft for macOS automation, featuring tags and version history. Safe, efficient, and optimized for macOS users.
 
 
 
